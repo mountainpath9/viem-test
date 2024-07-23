@@ -1,0 +1,11 @@
+{
+  "name": "viem-minimal",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "viem": "^2.17.9"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
